@@ -5,13 +5,26 @@
         <Phone>800-937-8461</Phone>
         <Address>
             <Number>11</Number>
-            <Street>E.7th St</Street>
+            <Street>E. 7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
         </Address>
         <Rating>4.2</Rating>
         <NearestAirport>Sky Harbor</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Arizona Biltmore, LXR Hotels And Resorts</Name>
+        <Phone>602-955-5800</Phone>
+        <Address>
+            <Number>2400</Number>
+            <Street>East Missouri Avenue</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
     </Hotel>
     <Hotel>
         <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
@@ -128,6 +141,7 @@
         </Address>
         <NearestAirport>Tucson International Airport (TUS)</NearestAirport>
     </Hotel>
+
 </Hotels>
 
 
