@@ -1,4 +1,4 @@
-<xsd:schema targetNamespace="https://kyledotzip.github.io/cse445-a4">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="https://kyledotzip.github.io/cse445-a4">
 <xsd:element name="Hotels">
     <xsd:complexType>
         <xsd:sequence>
@@ -27,5 +27,6 @@
     </xsd:complexType>
 </xsd:element>
 </xsd:schema>
+
 
 
