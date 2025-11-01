@@ -2,6 +2,7 @@
     <Hotel>
         <Name>Arizona Biltmore, LXR Hotels And Resorts</Name>
         <Phone>602-955-5800</Phone>
+        <Phone>602-955-5801</Phone>
         <Address>
             <Number>2400</Number>
             <Street>East Missouri Avenue</Street>
@@ -74,7 +75,6 @@
             <State>AZ</State>
             <Zip>85342</Zip>
         </Address>
-        <Rating>4.5</Rating>
         <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
     </Hotel>
     <Hotel>
@@ -130,3 +130,4 @@
     </Hotel>
 
 </Hotels>
+
