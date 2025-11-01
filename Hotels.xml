@@ -1,0 +1,132 @@
+<Hotels>
+    <Hotel>
+        <Name>Arizona Biltmore, LXR Hotels And Resorts</Name>
+        <Phone>602-955-5800</Phone>
+        <Address>
+            <Number>2400</Number>
+            <Street>East Missouri Avenue</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85016</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
+        <Phone>480-423-2450</Phone>
+        <Address>
+            <Number>6000</Number>
+            <Street>East Camelback Road</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Four Seasons Resort Scottsdale at Troon North</Name>
+        <Phone>480-515-5700</Phone>
+        <Address>
+            <Number>10600</Number>
+            <Street>East Crescent Moon Drive</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85255</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>L'Auberge de Sedona</Name>
+        <Phone>928-282-1661</Phone>
+        <Address>
+            <Number>301</Number>
+            <Street>L'Auberge Lane</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86336</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Flagstaff Pulliam Airport (FLG)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Enchantment Resort</Name>
+        <Phone>928-282-2900</Phone>
+        <Address>
+            <Number>525</Number>
+            <Street>Boynton Canyon Road</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86336</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Flagstaff Pulliam Airport (FLG)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Castle Hot Springs</Name>
+        <Phone>855-699-9635</Phone>
+        <Address>
+            <Number>14817</Number>
+            <Street>Carefree Highway</Street>
+            <City>Morristown</City>
+            <State>AZ</State>
+            <Zip>85342</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Fairmont Scottsdale Princess</Name>
+        <Phone>480-585-4848</Phone>
+        <Address>
+            <Number>7575</Number>
+            <Street>East Princess Drive</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85255</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>JW Marriott Phoenix Desert Ridge Resort And Spa</Name>
+        <Phone>480-293-5000</Phone>
+        <Address>
+            <Number>5350</Number>
+            <Street>East Marriott Drive</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85054</Zip>
+        </Address>
+        <Rating>4.0</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Royal Palms Resort and Spa</Name>
+        <Phone>602-840-3610</Phone>
+        <Address>
+            <Number>5200</Number>
+            <Street>East Camelback Road</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85018</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Phoenix Sky Harbor International Airport (PHX)</NearestAirport>
+    </Hotel>
+    <Hotel>
+        <Name>Tanque Verde Ranch</Name>
+        <Phone>520-296-6275</Phone>
+        <Address>
+            <Number>14301</Number>
+            <Street>East Speedway Boulevard</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>85748</Zip>
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAirport>Tucson International Airport (TUS)</NearestAirport>
+    </Hotel>
+</Hotels>
